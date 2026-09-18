@@ -1,0 +1,5 @@
+print("Calculator")
+print("Add")
+print("Sub")
+print("Mult")
+print("div")
